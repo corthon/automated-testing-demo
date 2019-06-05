@@ -1,0 +1,8 @@
+[submodule "edk2-test"]
+	path = edk2-test
+	url = https://github.com/corthon/edk2-test.git
+  branch = personal/brbarkel/initial_prep
+[submodule "mu_basecore"]
+	path = mu_basecore
+	url = https://github.com/Microsoft/mu_basecore.git
+  branch = personal/brbarkel/test_plaything
