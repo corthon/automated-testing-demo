@@ -32,7 +32,7 @@ import xml.etree.ElementTree
 #
 SCRIPT_PATH = os.path.dirname(os.path.abspath(__file__))
 WORKSPACE_PATH = SCRIPT_PATH
-REQUIRED_REPOS = ('MU_BASECORE', 'Common/MU_TIANO')
+REQUIRED_REPOS = ('mu_basecore', 'edk2-test')
 PROJECT_SCOPE = ('unittest',)
 
 MODULE_PKGS = ('mu_basecore', 'edk2-test')
