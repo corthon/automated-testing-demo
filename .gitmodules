@@ -4,5 +4,5 @@
   branch = personal/brbarkel/initial_prep
 [submodule "mu_basecore"]
 	path = mu_basecore
-	url = https://github.com/Microsoft/mu_basecore.git
+	url = https://github.com/microsoft/mu_basecore.git
   branch = personal/brbarkel/test_plaything
