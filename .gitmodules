@@ -6,3 +6,6 @@
 	path = mu_basecore
 	url = https://github.com/microsoft/mu_basecore.git
   branch = personal/brbarkel/test_plaything
+[submodule "RustPkg/External/r-efi"]
+	path = RustPkg/External/r-efi
+	url = https://github.com/r-util/r-efi
